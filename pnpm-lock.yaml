@@ -27,8 +27,8 @@ importers:
         specifier: ^1.15.4
         version: 1.15.4
       medium-proeditor:
-        specifier: ^0.1.17
-        version: 0.1.17
+        specifier: ^0.1.18
+        version: 0.1.18
       metascraper:
         specifier: ^5.46.9
         version: 5.46.9
@@ -1827,8 +1827,8 @@ packages:
     resolution: {integrity: sha512-/IXtbwEk5HTPyEwyKX6hGkYXxM9nbj64B+ilVJnC/R6B0pH5G4V3b0pVbL7DBj4tkhBAppbQUlf6F6Xl9LHu1g==}
     engines: {node: '>= 0.4'}
 
-  medium-proeditor@0.1.17:
-    resolution: {integrity: sha512-3Wf/iWpBHDEKkgRIVrSvhj3mQdyqDZt4kx2e5qP28tjy8Wwz42YoZI5dLOI+hH4QP47byr37eU/W9mz9YwTu8A==}
+  medium-proeditor@0.1.18:
+    resolution: {integrity: sha512-mQEKU9ot6wlO82sEvCIdk4vU+bZgHi5nTJVI3hdb2MwUpsnvE45gVpJ6QSlS8AhmXuvannDz6bErKDLUUohzOA==}
 
   memoize-one@6.0.0:
     resolution: {integrity: sha512-rkpe71W0N0c0Xz6QD0eJETuWAJGnJ9afsl1srmwPrI+yBCkge5EycXXbYRyvL29zZVUWQCY7InPRCv3GDXuZNw==}
@@ -4678,7 +4678,7 @@ snapshots:
 
   math-intrinsics@1.1.0: {}
 
-  medium-proeditor@0.1.17:
+  medium-proeditor@0.1.18:
     dependencies:
       '@floating-ui/dom': 1.6.13
       debounce: 2.2.0
